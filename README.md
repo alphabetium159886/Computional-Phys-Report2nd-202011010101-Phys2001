@@ -22,4 +22,6 @@ dddd-Runge_Kutta4.py
 接着在“数据分析源文件”文件夹里运行，进行分析。
 
 
+#阅读顺序
 
+报告-->三大误差法的matlab文件-->误差实现-->data-analyze
